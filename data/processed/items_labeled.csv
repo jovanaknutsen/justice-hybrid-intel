@@ -1,0 +1,201 @@
+item_id,scenario,strategy,prompt_text,label_coercion,label_leading,label_rapport,notes
+1,shoplifting,pressure,[shoplifting] Stop avoiding the question and answer directly.,2,1,0,auto-generated starter set
+2,shoplifting,pressure,"[shoplifting] If you cooperate now, it will go better for you.",2,1,0,auto-generated starter set
+3,shoplifting,rapport,[shoplifting] Can you walk me through what happened from the beginning?,0,0,1,auto-generated starter set
+4,shoplifting,neutral,[shoplifting] Who else was present?,0,0,0,auto-generated starter set
+5,shoplifting,rapport,[shoplifting] Take your time. What do you remember about that moment?,0,0,1,auto-generated starter set
+6,shoplifting,pressure,"[shoplifting] If you cooperate now, it will go better for you.",2,1,0,auto-generated starter set
+7,shoplifting,pressure,"[shoplifting] If you cooperate now, it will go better for you.",2,1,0,auto-generated starter set
+8,shoplifting,rapport,[shoplifting] Help me understand your perspective—what was going on for you?,0,0,1,auto-generated starter set
+9,shoplifting,rapport,[shoplifting] What would you like me to know that I haven’t asked yet?,0,0,1,auto-generated starter set
+10,shoplifting,pressure,[shoplifting] Your story doesn’t match the evidence. What are you hiding?,2,1,0,auto-generated starter set
+11,assault,pressure,[assault] Your story doesn’t match the evidence. What are you hiding?,2,1,0,auto-generated starter set
+12,assault,pressure,"[assault] If you cooperate now, it will go better for you.",2,1,0,auto-generated starter set
+13,assault,pressure,[assault] This is your chance to explain yourself before it gets worse.,2,1,0,auto-generated starter set
+14,assault,rapport,[assault] What would you like me to know that I haven’t asked yet?,0,0,1,auto-generated starter set
+15,assault,rapport,[assault] What would you like me to know that I haven’t asked yet?,0,0,1,auto-generated starter set
+16,assault,rapport,[assault] What happened just before that?,0,0,1,auto-generated starter set
+17,assault,rapport,[assault] Can you walk me through what happened from the beginning?,0,0,1,auto-generated starter set
+18,assault,pressure,[assault] Your story doesn’t match the evidence. What are you hiding?,2,1,0,auto-generated starter set
+19,assault,neutral,[assault] What did you see or hear?,0,0,0,auto-generated starter set
+20,assault,pressure,[assault] Stop avoiding the question and answer directly.,2,1,0,auto-generated starter set
+21,fraud,pressure,[fraud] This is your chance to explain yourself before it gets worse.,2,1,0,auto-generated starter set
+22,fraud,rapport,[fraud] Help me understand your perspective—what was going on for you?,0,0,1,auto-generated starter set
+23,fraud,rapport,[fraud] What would you like me to know that I haven’t asked yet?,0,0,1,auto-generated starter set
+24,fraud,rapport,[fraud] What happened just before that?,0,0,1,auto-generated starter set
+25,fraud,rapport,[fraud] Take your time. What do you remember about that moment?,0,0,1,auto-generated starter set
+26,fraud,neutral,[fraud] Where were you at that time?,0,0,0,auto-generated starter set
+27,fraud,rapport,[fraud] Take your time. What do you remember about that moment?,0,0,1,auto-generated starter set
+28,fraud,neutral,[fraud] Who else was present?,0,0,0,auto-generated starter set
+29,fraud,pressure,"[fraud] If you cooperate now, it will go better for you.",2,1,0,auto-generated starter set
+30,fraud,pressure,"[fraud] If you cooperate now, it will go better for you.",2,1,0,auto-generated starter set
+31,burglary,pressure,[burglary] Your story doesn’t match the evidence. What are you hiding?,2,1,0,auto-generated starter set
+32,burglary,pressure,[burglary] We already know what happened. Why are you not telling the truth?,2,1,0,auto-generated starter set
+33,burglary,pressure,[burglary] Stop avoiding the question and answer directly.,2,1,0,auto-generated starter set
+34,burglary,rapport,[burglary] What would you like me to know that I haven’t asked yet?,0,0,1,auto-generated starter set
+35,burglary,pressure,[burglary] We already know what happened. Why are you not telling the truth?,2,1,0,auto-generated starter set
+36,burglary,rapport,[burglary] Can you walk me through what happened from the beginning?,0,0,1,auto-generated starter set
+37,burglary,rapport,[burglary] Help me understand your perspective—what was going on for you?,0,0,1,auto-generated starter set
+38,burglary,neutral,[burglary] Where were you at that time?,0,0,0,auto-generated starter set
+39,burglary,rapport,[burglary] Take your time. What do you remember about that moment?,0,0,1,auto-generated starter set
+40,burglary,pressure,"[burglary] If you cooperate now, it will go better for you.",2,1,0,auto-generated starter set
+41,vandalism,pressure,[vandalism] Your story doesn’t match the evidence. What are you hiding?,2,1,0,auto-generated starter set
+42,vandalism,pressure,[vandalism] Stop avoiding the question and answer directly.,2,1,0,auto-generated starter set
+43,vandalism,rapport,[vandalism] Take your time. What do you remember about that moment?,0,0,1,auto-generated starter set
+44,vandalism,rapport,[vandalism] Take your time. What do you remember about that moment?,0,0,1,auto-generated starter set
+45,vandalism,pressure,"[vandalism] If you cooperate now, it will go better for you.",2,1,0,auto-generated starter set
+46,vandalism,neutral,[vandalism] Where were you at that time?,0,0,0,auto-generated starter set
+47,vandalism,rapport,[vandalism] Can you walk me through what happened from the beginning?,0,0,1,auto-generated starter set
+48,vandalism,rapport,[vandalism] What happened just before that?,0,0,1,auto-generated starter set
+49,vandalism,neutral,[vandalism] Where were you at that time?,0,0,0,auto-generated starter set
+50,vandalism,rapport,[vandalism] What happened just before that?,0,0,1,auto-generated starter set
+51,missing_person,neutral,[missing_person] What did you do next?,0,0,0,auto-generated starter set
+52,missing_person,neutral,[missing_person] What did you see or hear?,0,0,0,auto-generated starter set
+53,missing_person,pressure,[missing_person] This is your chance to explain yourself before it gets worse.,2,1,0,auto-generated starter set
+54,missing_person,rapport,[missing_person] Can you walk me through what happened from the beginning?,0,0,1,auto-generated starter set
+55,missing_person,neutral,[missing_person] Who else was present?,0,0,0,auto-generated starter set
+56,missing_person,rapport,[missing_person] Take your time. What do you remember about that moment?,0,0,1,auto-generated starter set
+57,missing_person,neutral,[missing_person] What did you see or hear?,0,0,0,auto-generated starter set
+58,missing_person,pressure,[missing_person] Stop avoiding the question and answer directly.,2,1,0,auto-generated starter set
+59,missing_person,rapport,[missing_person] What would you like me to know that I haven’t asked yet?,0,0,1,auto-generated starter set
+60,missing_person,rapport,[missing_person] Take your time. What do you remember about that moment?,0,0,1,auto-generated starter set
+61,drug_sale,rapport,[drug_sale] What would you like me to know that I haven’t asked yet?,0,0,1,auto-generated starter set
+62,drug_sale,pressure,"[drug_sale] If you cooperate now, it will go better for you.",2,1,0,auto-generated starter set
+63,drug_sale,pressure,[drug_sale] Your story doesn’t match the evidence. What are you hiding?,2,1,0,auto-generated starter set
+64,drug_sale,pressure,[drug_sale] This is your chance to explain yourself before it gets worse.,2,1,0,auto-generated starter set
+65,drug_sale,rapport,[drug_sale] What happened just before that?,0,0,1,auto-generated starter set
+66,drug_sale,rapport,[drug_sale] Help me understand your perspective—what was going on for you?,0,0,1,auto-generated starter set
+67,drug_sale,rapport,[drug_sale] Take your time. What do you remember about that moment?,0,0,1,auto-generated starter set
+68,drug_sale,pressure,"[drug_sale] If you cooperate now, it will go better for you.",2,1,0,auto-generated starter set
+69,drug_sale,pressure,[drug_sale] We already know what happened. Why are you not telling the truth?,2,1,0,auto-generated starter set
+70,drug_sale,neutral,[drug_sale] What did you do next?,0,0,0,auto-generated starter set
+71,workplace_theft,rapport,[workplace_theft] Can you walk me through what happened from the beginning?,0,0,1,auto-generated starter set
+72,workplace_theft,pressure,[workplace_theft] Your story doesn’t match the evidence. What are you hiding?,2,1,0,auto-generated starter set
+73,workplace_theft,rapport,[workplace_theft] What would you like me to know that I haven’t asked yet?,0,0,1,auto-generated starter set
+74,workplace_theft,pressure,[workplace_theft] Your story doesn’t match the evidence. What are you hiding?,2,1,0,auto-generated starter set
+75,workplace_theft,neutral,[workplace_theft] What did you see or hear?,0,0,0,auto-generated starter set
+76,workplace_theft,neutral,[workplace_theft] Where were you at that time?,0,0,0,auto-generated starter set
+77,workplace_theft,rapport,[workplace_theft] Take your time. What do you remember about that moment?,0,0,1,auto-generated starter set
+78,workplace_theft,neutral,[workplace_theft] What time did it happen?,0,0,0,auto-generated starter set
+79,workplace_theft,rapport,[workplace_theft] What would you like me to know that I haven’t asked yet?,0,0,1,auto-generated starter set
+80,workplace_theft,neutral,[workplace_theft] What did you do next?,0,0,0,auto-generated starter set
+81,street_robbery,rapport,[street_robbery] What would you like me to know that I haven’t asked yet?,0,0,1,auto-generated starter set
+82,street_robbery,pressure,[street_robbery] Stop avoiding the question and answer directly.,2,1,0,auto-generated starter set
+83,street_robbery,pressure,[street_robbery] We already know what happened. Why are you not telling the truth?,2,1,0,auto-generated starter set
+84,street_robbery,rapport,[street_robbery] What happened just before that?,0,0,1,auto-generated starter set
+85,street_robbery,rapport,[street_robbery] What would you like me to know that I haven’t asked yet?,0,0,1,auto-generated starter set
+86,street_robbery,rapport,[street_robbery] Help me understand your perspective—what was going on for you?,0,0,1,auto-generated starter set
+87,street_robbery,rapport,[street_robbery] Help me understand your perspective—what was going on for you?,0,0,1,auto-generated starter set
+88,street_robbery,pressure,"[street_robbery] If you cooperate now, it will go better for you.",2,1,0,auto-generated starter set
+89,street_robbery,rapport,[street_robbery] Can you walk me through what happened from the beginning?,0,0,1,auto-generated starter set
+90,street_robbery,neutral,[street_robbery] Who else was present?,0,0,0,auto-generated starter set
+91,cybercrime,pressure,[cybercrime] This is your chance to explain yourself before it gets worse.,2,1,0,auto-generated starter set
+92,cybercrime,pressure,"[cybercrime] If you cooperate now, it will go better for you.",2,1,0,auto-generated starter set
+93,cybercrime,pressure,"[cybercrime] If you cooperate now, it will go better for you.",2,1,0,auto-generated starter set
+94,cybercrime,pressure,"[cybercrime] If you cooperate now, it will go better for you.",2,1,0,auto-generated starter set
+95,cybercrime,pressure,"[cybercrime] If you cooperate now, it will go better for you.",2,1,0,auto-generated starter set
+96,cybercrime,neutral,[cybercrime] What did you do next?,0,0,0,auto-generated starter set
+97,cybercrime,pressure,[cybercrime] Stop avoiding the question and answer directly.,2,1,0,auto-generated starter set
+98,cybercrime,rapport,[cybercrime] What would you like me to know that I haven’t asked yet?,0,0,1,auto-generated starter set
+99,cybercrime,pressure,[cybercrime] We already know what happened. Why are you not telling the truth?,2,1,0,auto-generated starter set
+100,cybercrime,neutral,[cybercrime] What did you do next?,0,0,0,auto-generated starter set
+101,harassment,rapport,[harassment] What happened just before that?,0,0,1,auto-generated starter set
+102,harassment,pressure,"[harassment] If you cooperate now, it will go better for you.",2,1,0,auto-generated starter set
+103,harassment,pressure,[harassment] We already know what happened. Why are you not telling the truth?,2,1,0,auto-generated starter set
+104,harassment,neutral,[harassment] What time did it happen?,0,0,0,auto-generated starter set
+105,harassment,rapport,[harassment] What happened just before that?,0,0,1,auto-generated starter set
+106,harassment,rapport,[harassment] Help me understand your perspective—what was going on for you?,0,0,1,auto-generated starter set
+107,harassment,rapport,[harassment] Take your time. What do you remember about that moment?,0,0,1,auto-generated starter set
+108,harassment,neutral,[harassment] Who else was present?,0,0,0,auto-generated starter set
+109,harassment,neutral,[harassment] What did you do next?,0,0,0,auto-generated starter set
+110,harassment,pressure,[harassment] We already know what happened. Why are you not telling the truth?,2,1,0,auto-generated starter set
+111,arson,pressure,[arson] We already know what happened. Why are you not telling the truth?,2,1,0,auto-generated starter set
+112,arson,pressure,[arson] Your story doesn’t match the evidence. What are you hiding?,2,1,0,auto-generated starter set
+113,arson,rapport,[arson] Can you walk me through what happened from the beginning?,0,0,1,auto-generated starter set
+114,arson,pressure,"[arson] If you cooperate now, it will go better for you.",2,1,0,auto-generated starter set
+115,arson,pressure,[arson] Your story doesn’t match the evidence. What are you hiding?,2,1,0,auto-generated starter set
+116,arson,rapport,[arson] What happened just before that?,0,0,1,auto-generated starter set
+117,arson,rapport,[arson] What happened just before that?,0,0,1,auto-generated starter set
+118,arson,pressure,[arson] Your story doesn’t match the evidence. What are you hiding?,2,1,0,auto-generated starter set
+119,arson,neutral,[arson] What did you see or hear?,0,0,0,auto-generated starter set
+120,arson,rapport,[arson] What happened just before that?,0,0,1,auto-generated starter set
+121,embezzlement,neutral,[embezzlement] What time did it happen?,0,0,0,auto-generated starter set
+122,embezzlement,neutral,[embezzlement] What did you see or hear?,0,0,0,auto-generated starter set
+123,embezzlement,pressure,"[embezzlement] If you cooperate now, it will go better for you.",2,1,0,auto-generated starter set
+124,embezzlement,rapport,[embezzlement] What would you like me to know that I haven’t asked yet?,0,0,1,auto-generated starter set
+125,embezzlement,rapport,[embezzlement] Take your time. What do you remember about that moment?,0,0,1,auto-generated starter set
+126,embezzlement,rapport,[embezzlement] Can you walk me through what happened from the beginning?,0,0,1,auto-generated starter set
+127,embezzlement,rapport,[embezzlement] What would you like me to know that I haven’t asked yet?,0,0,1,auto-generated starter set
+128,embezzlement,pressure,[embezzlement] We already know what happened. Why are you not telling the truth?,2,1,0,auto-generated starter set
+129,embezzlement,rapport,[embezzlement] Help me understand your perspective—what was going on for you?,0,0,1,auto-generated starter set
+130,embezzlement,rapport,[embezzlement] Take your time. What do you remember about that moment?,0,0,1,auto-generated starter set
+131,insurance_claim,pressure,[insurance_claim] We already know what happened. Why are you not telling the truth?,2,1,0,auto-generated starter set
+132,insurance_claim,rapport,[insurance_claim] Can you walk me through what happened from the beginning?,0,0,1,auto-generated starter set
+133,insurance_claim,neutral,[insurance_claim] What did you see or hear?,0,0,0,auto-generated starter set
+134,insurance_claim,neutral,[insurance_claim] What did you do next?,0,0,0,auto-generated starter set
+135,insurance_claim,pressure,[insurance_claim] This is your chance to explain yourself before it gets worse.,2,1,0,auto-generated starter set
+136,insurance_claim,rapport,[insurance_claim] What happened just before that?,0,0,1,auto-generated starter set
+137,insurance_claim,pressure,[insurance_claim] This is your chance to explain yourself before it gets worse.,2,1,0,auto-generated starter set
+138,insurance_claim,neutral,[insurance_claim] Where were you at that time?,0,0,0,auto-generated starter set
+139,insurance_claim,neutral,[insurance_claim] What did you see or hear?,0,0,0,auto-generated starter set
+140,insurance_claim,rapport,[insurance_claim] What would you like me to know that I haven’t asked yet?,0,0,1,auto-generated starter set
+141,identity_theft,rapport,[identity_theft] What would you like me to know that I haven’t asked yet?,0,0,1,auto-generated starter set
+142,identity_theft,rapport,[identity_theft] Help me understand your perspective—what was going on for you?,0,0,1,auto-generated starter set
+143,identity_theft,pressure,[identity_theft] We already know what happened. Why are you not telling the truth?,2,1,0,auto-generated starter set
+144,identity_theft,rapport,[identity_theft] What happened just before that?,0,0,1,auto-generated starter set
+145,identity_theft,neutral,[identity_theft] What did you do next?,0,0,0,auto-generated starter set
+146,identity_theft,rapport,[identity_theft] What happened just before that?,0,0,1,auto-generated starter set
+147,identity_theft,pressure,[identity_theft] Stop avoiding the question and answer directly.,2,1,0,auto-generated starter set
+148,identity_theft,rapport,[identity_theft] What would you like me to know that I haven’t asked yet?,0,0,1,auto-generated starter set
+149,identity_theft,pressure,[identity_theft] This is your chance to explain yourself before it gets worse.,2,1,0,auto-generated starter set
+150,identity_theft,pressure,[identity_theft] Stop avoiding the question and answer directly.,2,1,0,auto-generated starter set
+151,domestic_dispute,rapport,[domestic_dispute] Take your time. What do you remember about that moment?,0,0,1,auto-generated starter set
+152,domestic_dispute,pressure,[domestic_dispute] Stop avoiding the question and answer directly.,2,1,0,auto-generated starter set
+153,domestic_dispute,neutral,[domestic_dispute] What time did it happen?,0,0,0,auto-generated starter set
+154,domestic_dispute,rapport,[domestic_dispute] What would you like me to know that I haven’t asked yet?,0,0,1,auto-generated starter set
+155,domestic_dispute,pressure,[domestic_dispute] This is your chance to explain yourself before it gets worse.,2,1,0,auto-generated starter set
+156,domestic_dispute,neutral,[domestic_dispute] What did you see or hear?,0,0,0,auto-generated starter set
+157,domestic_dispute,rapport,[domestic_dispute] Help me understand your perspective—what was going on for you?,0,0,1,auto-generated starter set
+158,domestic_dispute,pressure,[domestic_dispute] We already know what happened. Why are you not telling the truth?,2,1,0,auto-generated starter set
+159,domestic_dispute,rapport,[domestic_dispute] Can you walk me through what happened from the beginning?,0,0,1,auto-generated starter set
+160,domestic_dispute,neutral,[domestic_dispute] What did you do next?,0,0,0,auto-generated starter set
+161,bar_fight,rapport,[bar_fight] Can you walk me through what happened from the beginning?,0,0,1,auto-generated starter set
+162,bar_fight,pressure,[bar_fight] This is your chance to explain yourself before it gets worse.,2,1,0,auto-generated starter set
+163,bar_fight,pressure,[bar_fight] Your story doesn’t match the evidence. What are you hiding?,2,1,0,auto-generated starter set
+164,bar_fight,rapport,[bar_fight] Can you walk me through what happened from the beginning?,0,0,1,auto-generated starter set
+165,bar_fight,rapport,[bar_fight] Can you walk me through what happened from the beginning?,0,0,1,auto-generated starter set
+166,bar_fight,neutral,[bar_fight] What time did it happen?,0,0,0,auto-generated starter set
+167,bar_fight,rapport,[bar_fight] Help me understand your perspective—what was going on for you?,0,0,1,auto-generated starter set
+168,bar_fight,pressure,[bar_fight] This is your chance to explain yourself before it gets worse.,2,1,0,auto-generated starter set
+169,bar_fight,rapport,[bar_fight] What happened just before that?,0,0,1,auto-generated starter set
+170,bar_fight,rapport,[bar_fight] Help me understand your perspective—what was going on for you?,0,0,1,auto-generated starter set
+171,school_incident,pressure,[school_incident] Your story doesn’t match the evidence. What are you hiding?,2,1,0,auto-generated starter set
+172,school_incident,pressure,[school_incident] We already know what happened. Why are you not telling the truth?,2,1,0,auto-generated starter set
+173,school_incident,pressure,"[school_incident] If you cooperate now, it will go better for you.",2,1,0,auto-generated starter set
+174,school_incident,rapport,[school_incident] Help me understand your perspective—what was going on for you?,0,0,1,auto-generated starter set
+175,school_incident,pressure,"[school_incident] If you cooperate now, it will go better for you.",2,1,0,auto-generated starter set
+176,school_incident,rapport,[school_incident] Can you walk me through what happened from the beginning?,0,0,1,auto-generated starter set
+177,school_incident,rapport,[school_incident] What happened just before that?,0,0,1,auto-generated starter set
+178,school_incident,neutral,[school_incident] Where were you at that time?,0,0,0,auto-generated starter set
+179,school_incident,rapport,[school_incident] What would you like me to know that I haven’t asked yet?,0,0,1,auto-generated starter set
+180,school_incident,neutral,[school_incident] Who else was present?,0,0,0,auto-generated starter set
+181,traffic_incident,pressure,"[traffic_incident] If you cooperate now, it will go better for you.",2,1,0,auto-generated starter set
+182,traffic_incident,pressure,[traffic_incident] We already know what happened. Why are you not telling the truth?,2,1,0,auto-generated starter set
+183,traffic_incident,neutral,[traffic_incident] What did you see or hear?,0,0,0,auto-generated starter set
+184,traffic_incident,pressure,[traffic_incident] This is your chance to explain yourself before it gets worse.,2,1,0,auto-generated starter set
+185,traffic_incident,rapport,[traffic_incident] What happened just before that?,0,0,1,auto-generated starter set
+186,traffic_incident,pressure,[traffic_incident] Stop avoiding the question and answer directly.,2,1,0,auto-generated starter set
+187,traffic_incident,neutral,[traffic_incident] What did you see or hear?,0,0,0,auto-generated starter set
+188,traffic_incident,rapport,[traffic_incident] What happened just before that?,0,0,1,auto-generated starter set
+189,traffic_incident,rapport,[traffic_incident] Help me understand your perspective—what was going on for you?,0,0,1,auto-generated starter set
+190,traffic_incident,pressure,[traffic_incident] Your story doesn’t match the evidence. What are you hiding?,2,1,0,auto-generated starter set
+191,public_disturbance,rapport,[public_disturbance] Help me understand your perspective—what was going on for you?,0,0,1,auto-generated starter set
+192,public_disturbance,pressure,[public_disturbance] This is your chance to explain yourself before it gets worse.,2,1,0,auto-generated starter set
+193,public_disturbance,pressure,[public_disturbance] Stop avoiding the question and answer directly.,2,1,0,auto-generated starter set
+194,public_disturbance,rapport,[public_disturbance] What would you like me to know that I haven’t asked yet?,0,0,1,auto-generated starter set
+195,public_disturbance,rapport,[public_disturbance] Can you walk me through what happened from the beginning?,0,0,1,auto-generated starter set
+196,public_disturbance,pressure,[public_disturbance] Stop avoiding the question and answer directly.,2,1,0,auto-generated starter set
+197,public_disturbance,pressure,[public_disturbance] Your story doesn’t match the evidence. What are you hiding?,2,1,0,auto-generated starter set
+198,public_disturbance,neutral,[public_disturbance] What did you see or hear?,0,0,0,auto-generated starter set
+199,public_disturbance,neutral,[public_disturbance] Where were you at that time?,0,0,0,auto-generated starter set
+200,public_disturbance,rapport,[public_disturbance] What happened just before that?,0,0,1,auto-generated starter set
